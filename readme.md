@@ -1,6 +1,3 @@
-Here's the updated `README.md` file based on your new instructions:
-
-```markdown
 # Nepali Calendar Date Converter
 
 This repository hosts pre-converted dates from AD to BS (Bikram Sambat) for the period from April 14, 1943, to April 14, 2043.
@@ -54,12 +51,3 @@ The `generate.py` file is included to maintain the main generator logic. While a
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-### Explanation:
-
-- Updated the introduction to reflect that the repository hosts pre-converted dates.
-- Provided an example URL and instructions on how to change the date in the URL to get the BS date.
-- Included examples of how to use `curl` and `fetch` to access the BS date.
-- Maintained the description of the `generate.py` file and its purpose.
-
-This `README.md` now clearly explains how to use the pre-converted dates and includes practical examples for users.
